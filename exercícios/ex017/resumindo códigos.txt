@@ -1,0 +1,37 @@
+-resumo
+
+--apresentado font-family para mudar a fonte
+--apresentado font-size para mudar o tamanho da fonte
+--apresentado font-weight para aumentar o peso da fonte (lighter, normal, bold, bolder)
+--o peso pode mudar com numeração também caso a fonte tenha todos os pesos disponíveis, de 100 a 900
+--caso a fonte n tenha todos os pesos disponíveis você pode usar o ctrl+espaço para ver as variações
+--apresentado font-style para mudar o tipo do caracter (italíco etc), podendo usar ctrl+espaço para ver as opções
+--apresentado text-decoration para utilizar a fonte em nêgrito, itálico e sublinhado, caso sua fonte tenha essas opções
+
+--em vez de usar diversos parâmetros você pode usar o famoso "shorthand":
+
+    font: style weight size family, sans-serif (nesta ordem, assim você faz diversas coisas de uma vez só)
+
+ https://www.youtube.com/watch?v=oHj5ez1bSkc (caso tenha duvidas)
+
+-conceitos
+
+--medidas absolutas:
+--cm (centímetro)
+--mm (milimetro)
+--in (polegada)
+--px (pixels)
+--pt (ponto)
+--pc (paica)
+            
+--medidas relativas:
+--em (altura do M)
+--ex (altura x)
+--rem (fonte configurada no body)
+--vw (largura da viewport)
+--vh (altura da viewport)
+--% (porcentagem)
+
+--16px seria equivalente a 1em
+
+--apresentado alinhamentos, right, center, left, justify

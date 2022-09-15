@@ -1,0 +1,14 @@
+-resumo
+
+--apresentado como mudar as cores das letras com nomenclaturas, rgb, hsl etc.
+--apresentado também como mudar a opacidade dessas cores pelo próprio Visual Studio Code
+--explicado a diferença de hexadecimal e decimal, e como isso interfere em relação ao rgb
+
+--apresentado background-image: linear-gradient para fazer degradê com cores no site
+--apresentado a tag Main para separar do body algumas características exclusivas
+--apresentado border radius para curvar as pontas de algum bloco/quadrado/formulário
+--apresentado box shadow que serve para dar sombra as coisas
+--apresentado width que serve para regular a largura de algo
+--apresentado padding que serve para aumentar os espaços em volta dos textos ou do conteúdo que está dentro do bloco
+--apresentado margin: auto; que serve para deixar o bloco no centro
+--apresentado text align center, que serve para deixar o texto no centro

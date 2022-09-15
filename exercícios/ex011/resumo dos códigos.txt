@@ -1,0 +1,24 @@
+-resumo 
+
+--apresentado como regular imagens no site por largura
+--apresentado tag PICTURE, que nela quer dizer que você vai mexer em imagens dentro do espaço dela
+--apresentado tag SOURCE, na qual ela vai ter vários parâmetros de media, nesse caso voc vai utilizar MEDIA TYPE o qual vai regular as imagens de acordo com a largura
+--sempre que setado MEDIA TYPE vai aparece min-width, muda para MAX, é o jeito que você aprendeu a regular
+--quanto menor a imagem mais a cima você vai colocar ela do código, se tiver dúvidas abra o projeto
+
+--isso facilita para o usuário, exp melhor, e vai aumentar os acessos do seu site
+
+--apresentado como colocar audios no site
+--a tag AUDIO serve pra você adionar o som, porém você tem que colocar parâmetros para poder tocar (CONTROLS, AUTOPLAY)
+--voc pode utilizar outros formatos de áudios casa seu navegador não tenha compatibilidade com um ou outro (mp3, wav, ogg, wav n recomendado, mt pesado)
+
+--outra maneira de colocar audios é também pelo SOURCE, dentro do aúdio, em vez de utilizar só o ÁUDIO
+--vale lembrar que para aúdio o parâmetro a ser escolhido é SRC, e não SRCSET que seria de imagem
+--nessa segunda maneira voc tem que colocar algo no TYPE, pra cada tipo de áudio é algo diferente, tem na apostila diversos (MPEG para MP3, OGG para OGG, WAV para WAV)
+
+--metadata
+--loop
+--controls
+--autoplay
+
+--estude esses parâmetros

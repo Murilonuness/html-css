@@ -1,0 +1,32 @@
+-resumo
+
+--apresentado o que é uma div, que costuma ser um espaço qualquer
+--apresentado o que seria uma pseudo classe, que em código ele é representada por :
+--apresentado a pseudoclasse hover, que serve para quando você passar o mouse em cima dele acontecer algo
+--apresentado como esconder um parágrafo, que funciona com você especificando que dentro da sua div terá uma pseudoclasse children, e que essa pseudoclasse terá um display none, no caso para não aparecer:
+
+ex:  div > p {
+            display: none;
+        }
+
+--apresentado o parâmetro display, que pode ser utilizado ou para esconder algo ou para aparecer etc
+--apresentado como trabalhar com o seletor children junto com a subclasse hover, que serve para que quando o mouse passar na div o children irá aparecer:
+
+ex:  div:hover > p {
+            display: block;
+            color: white;
+            background-color: red;
+            width: 150px;
+        }
+
+    --apresentado a pseudoclasse visited, active e hover, introduzidas nos exemplos de links
+
+    --apresentado qual é o código para pseudo elemento, que seria ::, serve para colocar algo depois de uma frase ou antes
+
+    /* SELETORES PERSONALIZADOS
+            # = id
+            . = class
+            : = pseudo classes
+            :: = pseudo elementos
+            > = children
+        */

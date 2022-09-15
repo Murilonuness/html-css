@@ -1,0 +1,8 @@
+Resumo da aula:
+
+Introduzido a idéia de parágrafos utilizando o p
+Introduzido a idéia de quebra de parágrafos utilizando o br
+Introduzido a idéia de fazer linhas usando hr
+Introduzido a idéia de mencionar marcas usando o famoso <>, que em inglês significa Less Than and Greater Than, e em código é utilizado &lt; e &gt;
+Introduzido a usar algumas marcas onde mencionam símbolos do teclado, como &reg; ou &copy;(entre diversas outras que pode ser visualizada na apostila do curso)
+Apresentado também por último mas não menos importante como colocar emojis no site, que é utilizada a marca &#x junto com o código do emoji que você pega no site(emojipedia)

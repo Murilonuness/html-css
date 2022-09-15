@@ -1,0 +1,16 @@
+-resumo
+
+--em um navegador as camadas são colocadas como caixas, sempre uma dentro da outra
+--uma tag comum de exemplo seria o h1 que também é uma caixa, essas caixas podem ter height (altura), width (largura), border (borda), padding (preenchimento dentro da caixa), margin(uma outra caixa por fora com espaço), outline(seria um contorno da borda)
+--no CSS existe dois tipos de caixas, box-level e inside-level
+--box-level seria uma caixa em que quebraria a linha após um conteúdo, e faria uma caixa ocupando toda a largura do navegador, para depois continuar com outros conteúdos em baixo (div, h1, p, main, footer, vídeo)
+--inside-box seria uma caixa em que não quebraria a linha do navegador, ela continuaria aonde você parou o último conteúdo, finalizaria e continuaria, não quebraria para baixo nem ocuparia toda a largura em que ele está (strong, a, sub, sob, span)
+
+--apertando ctrl+i no teclado você pode ver claramente as caixas no seu navegador pelo dev tools
+
+--shorthand sempre será mt utilizado para o css, sempre comece especificando as características em sentido horário, começando de cima
+
+--uma caixa box-level pode ser transformada em inline com o código display: inline
+--uma caixa inline pode ser transformada em box-level com o código display:block
+
+--uma caixa inline pode ser transformada em box-level também, com o código display:inline-block, assim ele continuará sendo inline mas poderá ter altura, largura etc

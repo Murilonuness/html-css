@@ -1,0 +1,11 @@
+-resumo
+
+--apresentado listas ordenadas e não ordenadas
+--para listar assuntos ou coisas é utilizada a tag LI, não sendo necessário fechamento de tag
+--ordenadas utilizando tag OL, podendo ter 5 tipos de organização (1 A a I i)
+--não ordenadas utilizando tag UL, podendo ter três tipos diferentes de design (DISC CIRCLE SQUARE)
+--as listas podem ser mescladas e também ter diversas dentro das outras, tendo listas UL dentro de listas OL, e tendo parâmetros diferentes, sendo UL CIRCLE e dentro uma UL SQUARE
+--sempre utilize TYPE dentro da tag para mudar o parâmetro
+
+--apresentado por último listas de definições, que é utilizado a tag DL, onde dentro dela se utiliza as tags DT (termo, escolhido) e DD em baixo (descrição)
+--menos usadas, mas importantes para algorítmos de buscas

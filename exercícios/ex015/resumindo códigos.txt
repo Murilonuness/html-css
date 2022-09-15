@@ -1,0 +1,8 @@
+-resumo
+
+--apresentado a terceira forma e mais versátil, além de ser mais organizada também, em que em vez de você fazer seletores em HEAD, você irá criar um LINK que vai buscar os estilos do CSS (LINK:CSS)
+--é possível também você continuar colocando mais links de estilos de pastas diferentes
+--e usar essa terceira forma não significa que as outras não podem ser incluídas, se for algo que irá ajudar na ocasião é mais que necessário
+
+--apresentado também uma regra para pastas em .CSS, que seria @charset "UTF-8";
+--código para compatibilidade em relação as acentuações

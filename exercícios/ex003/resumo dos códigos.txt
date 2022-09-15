@@ -1,0 +1,9 @@
+-resumo dos códigos:
+
+-- apresentado a como redimensionar imagens para perder tamanho e ficar mais leve no site
+-- orientado em relação a copyrights e direitos autorais 
+-- indicado a sites e maneiras a conseguir imagens sem direitos autorais(unsplash)
+-- ensinado a utilizar o como imr, e traduzido como o código funciona
+-- explicado que caso utilize ctrl junto com o espaço você escolhe a imagem sem ter que digitar o nome
+-- disciplinado para poder utilizar também imagem que esteja em outra pasta
+-- e por último mas não menos importante como colocar uma imagem externa no projeto, utilizando o endereço de imagem, no qual caso o site original da imagem caia a sua também irá cair.

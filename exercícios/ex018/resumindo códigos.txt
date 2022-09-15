@@ -1,0 +1,20 @@
+-resumo
+
+--apresentado como se coloca fontes pela própria internet
+--você pode tanto baixar como importar como regra para seu projeto
+--site recomendaodo é o font google
+
+--apresentado como inserir fontes baixadas em seu próprio projeto (dafont)
+--apresentado como inserir a fonte baixada no Visual Studio Code, utilizando @font-face
+
+-tipos de format() no font-face:
+opentype (otf)
+trutype (ttf)
+emedded-opentype
+trutype-aat
+avg
+
+ATUALMENTE NO SEU ESTUDO O FORMAT NÃO ESTÁ FUNCIONANDO
+
+--ensinado como detectar fontes de outros sites, pela ferramenta Fonts Ninja
+--apresentado três sites para tentar detectar fontes de imagens (WhaFontis, FontSquirrel, MyFonts)

@@ -1,0 +1,6 @@
+-resumo
+
+--orientado dois sites para fazer e pegar favicons(iconarchive, favicon.io)
+--orientado a também como transformar tipos de imagens para icon
+--ensinado o código em que se coloca no site, que é a marcação link
+--explicado o atalho dentro do Visual S. Code que seria o ctrl+espaço para escolher a favicon no projeto.

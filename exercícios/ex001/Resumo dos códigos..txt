@@ -1,0 +1,5 @@
+É introduzido a base estrutural do html 5.
+Na qual se inicia apenas apertando !.
+Mudei a línguagem para pt-br.
+Fiz o primeiro sprint, a primeira frase.
+Mudei o título e fiz uma linha.

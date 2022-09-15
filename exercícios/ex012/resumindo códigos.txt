@@ -1,0 +1,14 @@
+-resumo
+
+--apresentado as opções de mídias em relação a vídeos que seria MP4/M4V, WEBM, OGG/OGV
+--apresentado conversor de tipo de vídeos pelo HandBrake
+--apresentado site onde você pode conseguir vídeos sem direitos autorais que seria o Pexels
+
+--explicado que quando hospeda vídeos do próprio servidor ele consome mts megas ou gigas dependendo do acesso
+--apresentado que no próprio servidor você terá que usar a tag VIDEO, depois SOURCE SRC
+--use parâmetros para regular seu vídeo, WIDTH por exemplo para largura, POSTER pra colocar uma imagem antes do vídeo ser inicializado, CONTROLS para aperecer o player, LOOP para repetir o vídeo após o final
+
+--apresentado como inserir vídeos aonde você hospeda em outros sites para que você não tenha o consumo do servidor, e sim o site original
+--sem necessidade de usar tags, vá em ''compartilhar'' no YouTube ou no Vimeo e copie os códigos em ''incorporar''
+--lembrando que você tem que ter a responsabilidade em relação aos direitos autorais
+--a maneira mais segura é você criar vídeos próprios e subir no YT ou no Vimeo, Vimeo é melhor mas é pago

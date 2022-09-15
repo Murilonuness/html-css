@@ -1,0 +1,18 @@
+-resumo
+
+--apresentado como se introduz links externos, utilizado com a tag A
+--explicado que caso queira um link onde te leve direto para outro site, é somente adicionar a URL no parâmetro HREF e pronto
+--mas caso queira um link para te direcionar em outra aba, terá que colocar o parametro TARGET="_BLANK" além de REL="EXTERNAL" que serve pra mecânismos de buscas.
+
+--apresentado como você adicionar links internos, utilizando também a tag A, porém em vez da URL você vai colocar o nome do documento que está sua outra página
+--explicado também que é necessário colocar REL="NEXT" quando for feito nesse caso em específico, e se você tiver vontade pode adicionar TARGET="_SELF" (para o mec entender que é do próprio site)
+
+--em casos que tenha que dar créditos a alguma empresa, coloque o link de forma externa, ainda utilizando TARGET="_BLANKA"
+--se você não quiser se responsabilizar pelo conteúdo da empresa, pode colocar REL="NOFOLLOW" (importante destacar que se a empresa exigir pra n colocar o NOFOLLOW, você daí não pode colocar)
+
+--para criar um link interno que volte para página inicial você terá que colocar o nome do documento e colocar REL="PREV"
+--caso o documento da página esteja em uma pasta anterior do projeto, você deverá colocar dois pontos (ex: <a href="..pag001.html">)
+
+--apresentado como baixar arquivos por link, apresentado o parâmetro DOWNLOAD
+--explicado que tem que colocar TYPE de acordo com o tipo de documento, site IANA onde mostra os types (https://www.iana.org/assignments/media-types/media-types.xhtml)
+--no material de apoio também tem os types mais comuns

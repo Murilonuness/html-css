@@ -1,0 +1,8 @@
+-resumo
+
+--apresentado uma segunda forma de estilizar a cor das letras, o tamanho, os fundos, uma forma mais funcional que a da aula passada
+--muito útil para trabalhos em que vai ser trabalhado uma página só
+--essa segunda forma de estilizar você não coloca o STYLE dentro das tags, e sim coloca dentrro de HEAD, assim você cria seletores para que mude em sua página
+
+--ainda sim tem defeitos, pois quanto mais estilos, maior o trabalho, então até achar o código que quer modificar demora, e com isso é ruim
+--e o segundo defeito é que se for um trabalho com mais páginas, você terá que copiar e colar para todas as páginas, além de que se tiver modificações irá ter que modificar em todas também  

@@ -1,0 +1,6 @@
+-resumo
+
+--apresentado como se coloca cor em letras, e tbm como muda o tamanho das letras pelo css
+--apresentado também como alinhar melhor os textos na página com css
+--isso tudo usando style dentro das tags BODY, H1, H2 etc.
+--um jeito simples mas muito menos eficiente e mais trabalhoso

@@ -1,0 +1,16 @@
+
+-resumo
+
+--ensinado a como utilizar caracteres mogonênicos, que seria com a tag CODE
+--ensinado como enviar para o site o conteúdo com uma pré formatação, utilizando a tag PRE
+--explicado também que caso você selecione todo o código que está dentro da pré formatação (PRE) você pode tanto espaçar (tab) quanto diminuir o espaçamento (ctrl+tab)
+
+--apresentado a tag Q, que se utiliza para colocar em citações simples, ou seja, vai ser introduzido os aspas (os aspas pela tag dão sentido ao código, se for só digitado é uma forma comum)
+--apresentado a tag Blockquote, que se utiliza para citações completas, que seria utilizado para uma citação mais longa, ela é apresentada já com um deslocamento na horizontal
+
+--apresentado também um parâmetro chamado CITE, ele é introduzido dentro do Blockquote, serve para que você coloque no código a URL da menção, seja um livro, artigo etc
+--essa URL da citação serve para que os mecânismos de buscas, como do próprio Google saibam que essa frase tem conexão com o conteúdo original, seja um livro, artigo etc
+
+--apresentado a tag ABBR, que serve para uma mini tradução de alguma sigla que você tenha no site, ou seja, se o mouse vier em cima da sigla, automaticamente é traduzido para o cliente
+
+--apresentado a tag ABBR, que serve para você para texto invertidos

@@ -1,0 +1,7 @@
+-resumo
+
+--apresentado a forma de você diferenciar o estilo de uma tag em específico, ficando diferente das demais
+--apresentado o id, código em css é #
+
+--apresentado class, a denominação do class no CSS é .
+--explicado que você pode usar id e class juntos na mesma tag, pode usar dois class juntos na mesma tag, pode usar durante um texto adicionando class a tag span

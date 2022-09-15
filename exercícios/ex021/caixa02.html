@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grouping Tags</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: rgb(92, 138, 197);
+            margin: 0px;
+        }
+
+        nav {
+            background-color: rgb(167, 167, 167);
+            padding: 3px;
+            box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.315);
+            text-align: center;
+        }
+
+        nav > a {
+            text-decoration: none;
+            color: white;
+            margin: 15px;
+        }
+
+        nav > a:visited {
+            color: blue;
+        }
+
+        nav > a:hover {
+            text-decoration: underline;
+            color: white;
+        }
+
+
+        header {
+            width: 500px;
+            background-color: white;
+            padding: 5px;
+            margin: 10px 0px 0px 5px;
+            border-radius: 10px;
+            box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.315);
+        }
+
+        #meusite {
+            background-color: black;
+            color: white;
+            border-radius: 8px;
+            padding: 1px;
+            text-align: center;
+        }
+
+        #assuntos {
+            background-color: black;
+            color: white;
+            border-radius: 8px;
+            padding: 1px;
+            text-align: center;
+        }
+
+        main {
+            width: 500px;
+            background-color: white;
+            padding: 5px;
+            margin: 10px 0px 10px 5px;
+            border-radius: 10px;
+            box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.315);
+        }
+
+    article > aside {
+        color: white;
+        background-color:rgb(0, 0, 0) ;
+    }
+
+    article {
+        background-color: rgb(167, 167, 167);
+        padding: 1px;
+    }
+
+    footer {
+            background-color: rgb(0, 0, 0);
+            color: white;
+            text-align: center;
+            padding: 6px;
+            margin: 0px;
+    }
+
+    footer > p {
+        margin: 0px;
+    }
+    </style>
+</head>
+<body>
+    <header>
+        <h1 id="meusite">Meu site</h1>
+        <nav>
+            <a href="https://www.samsung.com/br/" target="_blank" rel="external">Link</a>
+            <a href="https://www.instagram.com/" target="_blank" rel="external">Link</a>
+            <a href="https://youtube.com/" target="_blank" rel="external">Link</a>
+        </nav>
+    </header>
+    <main>
+        <section id="assuntos">
+            <h1>Esportes, Políticas e Técnologias.</h1>
+        </section>
+        <section id="noticias"></section>
+        <article>
+            <h2>Notícia sobre o Brasil</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur quidem facilis ipsam illo! Nisi, enim soluta necessitatibus repellat vitae quae harum, eius ipsum illo asperiores, accusantium eveniet similique non sit!</p>
+            <aside>
+                <p>Artigo escrito por Fulano Guanabara</p>
+            </aside>
+        </article>
+        <article>
+
+        </article>
+    </main>
+    <footer>
+        <p>Desnvolvido por Murilo Silva</p>
+    </footer>
+</body>
+</html>

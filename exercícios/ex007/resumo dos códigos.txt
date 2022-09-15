@@ -1,0 +1,4 @@
+orientado a entender que html4 é antigo e tem muitas tags obsoletas
+o programador é responsável pra ficar atento quais são as tags obsoletas
+a HTML5 veio com a proposta de ser focada na semântica e não na forma
+ou seja, não é no design e sim na organização, design ficou para o CSS 

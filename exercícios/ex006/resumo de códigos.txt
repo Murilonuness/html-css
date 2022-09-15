@@ -1,0 +1,6 @@
+- resumo
+
+-- apresentado a hierarquia de títulos
+-- explicado que não é algo relacionado a tamanho, e sim a quem vem primeiro
+-- dado o exemplo no código de um mini artigo
+-- hieraquia não é infinita, só vai até h6, mais que isso é desperdício de quem está lendo

@@ -1,0 +1,10 @@
+-resumo
+
+--apresentado o que seria grouping tags
+--explicado que na construção de um página pode ser feita através de divs igual era muito utilizado no HTML4, mas também pode ser utilizado com tags semânticas
+--essas tags que poderiam ser header (cabeçalho), main (principal), footer (rodapé)
+--dentro dessas tags pode ter outras tags para separa os conteúdos, como section por exemplo
+--apresentado aside(conteúdo periférico de article) e article(artigo qualquer) também
+
+--apresentado como colocar box-shadow tanto pelo vsc quanto pelo dev tools
+--o shorthand para sombras é horizontal, vertical, borrar (blur), espaçamento

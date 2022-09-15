@@ -1,0 +1,23 @@
+-resumo
+
+--apresentado a formatação de textos em itálico e em negrito
+--indicado para utilizar STRONG para negrito pois é semântico
+--mencionado também a utilização do EM para itálico pois tbm é semântico
+--deixado claro que tanto B quanto I são do HTML4, estão sendo usados mas correm o riso de virarem obsoletos
+--explicado também que são dois códigos antigos que não são semânticos, são formas
+
+--deixou resgistrado também atalhos no Visual Studio Code, que seria ctrl+shift+p e na lupa escolhendo o envelopar (Emmet: Enveloper com Abv)
+
+--apresentação de tag e explição na aula como utilizar o código MARK
+--explicado que pode ser utilizado na própria linha (STYLE dentro da tag MARK, BACKGROUND COLOR)
+--porém também pode ser utilizado no ínicio, setando como seletor em Style (quando feito isso todos os MARKS utilizados serão da mesma cor, use {} e não <>)
+
+--apresentação de tag e explição que BIG está funcionando mas não é semântico, pode alterar o tamanho em CSS
+--apresentação de tag e explição que SMALL ainda está funcionando
+
+--apresentação de tag e explição sobre DEL, que funciona para Texto deletado.
+--apresentação de tag e explição sobre INS, que funciona para Texto inserido
+
+--apresentação de tag e explição sobre SUP, que funciona para Texto sobrescrito parecido com o exemplo de: x²+3
+--apresentação de tag e explição sobre SUB, que funciona para Texto subscrito parecido com o exemplo de: H²O
+
